@@ -1,7 +1,18 @@
-### Hi there 👋
+## Hi, I'm Alhaitham 👋
 
-My name is Alhaitham Al Jabri. I graduated with BS in Computer Science from the University of Minnesota-Twin-Cities. Currently looking for new opportunites. Feel free to checkout my website [here](https://jabri.dev/).  
-    
+### I'm a full-stack web developer, currently working with Rihal
+
+Before joining Rihal, I earned my BS from the University of Minnesota Twin Cities in Dec 2020. Currently working as a full-stack web developer with Golang in the backend and React in the frontend. Feel free to chekout [my website](https://jabri.dev/).
+
+<p align='center'>
+    <img src='https://visitor-badge-reloaded.herokuapp.com/badge?page_id=aljab012&logo=Github&style=for-the-badge&color=16a085'>
+    <a href='https://github.com/aljab012?tab=followers'>
+        <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/aljab012?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
+    </a>
+    <a href="https://www.linkedin.com/in/alhaitham">
+      <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+</p>
 
 ## 🛠 Languages and Tools:
 
