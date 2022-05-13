@@ -2,7 +2,7 @@
 
 ### I'm a Full-Stack Web Developer, currently working with Rihal
 
-Before joining Rihal, I earned my BS from the University of Minnesota Twin Cities in Dec 2020. Currently working as a Full-stack Web Developer with Go in the backend and React in the frontend. Feel free to chekout [my website](https://jabri.dev/).
+Before joining Rihal, I earned my BS from the University of Minnesota Twin Cities in Dec 2020. Currently working as a Full-stack Web Developer with Go in the backend and React in the frontend.
 
 <p align='center'>
     <img src='https://visitor-badge-reloaded.herokuapp.com/badge?page_id=aljab012&logo=Github&style=for-the-badge&color=16a085'>
