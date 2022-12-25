@@ -1,11 +1,10 @@
 ## Hi, I'm Alhaitham 👋
 
-### I'm a Full-Stack Web Developer, currently working with Rihal
+### I'm a Full-Stack Web Developer, currently working at Rihal
 
 Before joining Rihal, I earned my BS from the University of Minnesota Twin Cities in Dec 2020. Currently working as a Full-stack Web Developer with Go in the backend and React in the frontend.
 
 <p align='center'>
-    <img src='https://visitor-badge-reloaded.herokuapp.com/badge?page_id=aljab012&logo=Github&style=for-the-badge&color=16a085'>
     <a href='https://github.com/aljab012?tab=followers'>
         <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/aljab012?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
     </a>
