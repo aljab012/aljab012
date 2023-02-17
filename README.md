@@ -41,10 +41,6 @@ Before joining Rihal, I earned my BS from the University of Minnesota Twin Citie
 
 ---
 <!-- Contribution graph -->
-<p justify-content="center">
- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=aljab012&theme=react-dark&custom_title=Contribution%20Graph">
-</p>
-
 <p align=center>
  <a href="https://leetcode.com/aljabri">
   <img width=512 title="Alhaitham's LeetCode Stats" alt="Alhaitham's LeetCode Stats" src="https://leetcode.card.workers.dev/?username=aljabri&style=dark&font=Garamond&extension=activity" />
