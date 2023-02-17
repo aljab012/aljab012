@@ -38,11 +38,3 @@ Before joining Rihal, I earned my BS from the University of Minnesota Twin Citie
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-
----
-<!-- Contribution graph -->
-<p align=center>
- <a href="https://leetcode.com/aljabri">
-  <img width=512 title="Alhaitham's LeetCode Stats" alt="Alhaitham's LeetCode Stats" src="https://leetcode.card.workers.dev/?username=aljabri&style=dark&font=Garamond&extension=activity" />
- </a>
-</p>
