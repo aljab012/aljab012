@@ -1,8 +1,8 @@
 ## Hi, I'm Alhaitham 👋
 
-### I'm a Backend Engineer
-
-I earned my BS from the University of Minnesota Twin Cities in Dec 2020. Currently working as a backend engineer.
+Highly experienced Backend Engineer with a specialization in web development. With over two years of professional experience, my expertise
+encompasses backenddevelopment using Golang, CI/CD with GitHub Actions, Docker, and frontendtechnologies likeReact. Actively pursuing
+opportunities in Backend Engineering and DevOps roles.
 
 <p align='center'>
     <a href='https://github.com/aljab012?tab=followers'>
