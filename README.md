@@ -1,8 +1,7 @@
 ## Hi, I'm Alhaitham 👋
 
-Highly experienced Backend Engineer with a specialization in web development. With over two years of professional experience, my expertise
-encompasses backenddevelopment using Golang, CI/CD with GitHub Actions, Docker, and frontendtechnologies likeReact. Actively pursuing
-opportunities in Backend Engineering and DevOps roles.
+Highly experienced Full-stack Engineer with a specialization in web development. With over three years of professional experience, my expertise
+encompasses backend development using Golang, CI/CD with GitHub Actions, Docker, and frontend technologies like React.
 
 <p align='center'>
     <a href='https://github.com/aljab012?tab=followers'>
