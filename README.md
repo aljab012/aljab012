@@ -1,6 +1,6 @@
 ## Hi, I'm Alhaitham 👋
 
-Highly experienced Full-stack Engineer with a specialization in web development. With over three years of professional experience, my expertise
+Highly experienced Full-stack Engineer with a specialization in web development. With over four years of professional experience, my expertise
 encompasses backend development using Golang, CI/CD with GitHub Actions, Docker, and frontend technologies like React.
 
 <p align='center'>
