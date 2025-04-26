@@ -26,3 +26,6 @@ encompasses backend development using Golang, CI/CD with GitHub Actions, Docker,
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+## LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/aljab012?theme=dark&font=Noto%20Serif%20Malayalam&ext=activity)
