@@ -4,20 +4,14 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Software+Engineer;4%2B+Years+Building+High-Performance+Apps;AI+Systems+%7C+Cloud+Architecture+%7C+Go+Expert" alt="Typing SVG" /></a>
 </p>
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/alhaitham">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://alhaitham.dev">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:jabri.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-  <a href='https://github.com/aljab012?tab=followers'>
-    <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/aljab012?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alhaitham)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://alhaitham.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jabri.dev@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/aljab012?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white)](https://github.com/aljab012?tab=followers)
+
+</div>
 
 ## 🚀 What I Do
 
